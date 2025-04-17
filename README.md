@@ -11,12 +11,6 @@ There are several examples for use (I have not checked all channels for function
 
 Switching between online and offline modes only when viewing the list of names (switching is not available in the list of channel lists) - the "select" button
 
-[grid]
-![iptv1|640x480](upload://9LqGwGCOENLYb2LPffahXuKF15r.png)
-![iptv2|640x480](upload://9d7OpY4PYEc8LqNkJjNThSjnUAx.png)
-![iptv3|640x480](upload://jVE5TueIHw8PtqEYstYlfdElSuP.png)
-![iptv4|640x480](upload://8Wl16frCul68iHOrk9CgmGh1BK9.png)
-[/grid]
 
 Save control for the MuOS MPV player (it is used for broadcasts)
 

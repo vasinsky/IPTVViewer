@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1,Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1,Звезда (HD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1,Звезда (HD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1,Беларусь 1 (HD)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1,Мир (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1,RTVi (EDTV)
+http://45.143.108.110:2203/RTVi
+
+#EXTINF:-1,Большая Азия (HD ready)
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Красная линия (EDTV)
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,1+2
+http://89.254.128.5:22280/1_2/mono.m3u8
+
+#EXTINF:-1,1+2
+http://89.254.128.5:22280/1_2/mono.m3u8

@@ -1,0 +1,30 @@
+back = esc
+
+# Navigation
+up = up
+down = down
+left = left
+right = right
+
+select = space #change mode online/offline
+
+left_analog_up = c #clear artefacts mpv
+left_analog_down = c #clear artefacts mpv
+
+a = enter
+b = x  # back/close mpv
+y = z # add to bookmarks
+
+#mpv controls
+
+start = p			# pause
+x = m			# mute sound
+l1 = 3			# bright less
+l2 = 1			# contrast less
+r1 = 4			# bright more
+r2 = 2			# contrast more
+right_analog_up = *			# volume increase
+right_analog_up = add_shift
+right_analog_down = /		# volume decrease
+right_analog_left = [		# speed down 10%
+right_analog_right = ]		# speed up 10%

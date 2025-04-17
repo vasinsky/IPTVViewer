@@ -1,0 +1,219 @@
+[   0.000][d][global] user path: 'assets/data/mpv.txt' -> 'assets/data/mpv.txt'
+[   0.005][v][cplayer] mpv 0.39.0 Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+[   0.005][v][cplayer]  built on Sep 28 2024 21:48:54
+[   0.005][v][cplayer] libplacebo version: v7.349.0
+[   0.005][v][cplayer] FFmpeg version: 6.1.2
+[   0.005][v][cplayer] FFmpeg library versions:
+[   0.005][v][cplayer]    libavcodec      60.31.102
+[   0.005][v][cplayer]    libavdevice     60.3.100
+[   0.005][v][cplayer]    libavfilter     9.12.100
+[   0.006][v][cplayer]    libavformat     60.16.100
+[   0.006][v][cplayer]    libavutil       58.29.100
+[   0.006][v][cplayer]    libswresample   4.12.100
+[   0.006][v][cplayer]    libswscale      7.5.100
+[   0.006][v][cplayer] Configuration: -Dbuildtype=release -Dstrip=true -Dmanpage-build=enabled -Dhtml-build=enabled -Dprefix=/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0 -Dsysconfdir=/usr/local/etc
+[   0.006][v][cplayer] List of enabled features: avfoundation bsd-fstatfs build-date cocoa coreaudio cplugins darwin ffmpeg gl gl-cocoa glob glob-posix gpl iconv javascript jpeg lcms2 libarchive libass libavdevice libdl libplacebo lua5.1 mac-thread-name macos-10-15-4-features macos-11-3-features macos-11-features macos-12-features macos-cocoa-cb macos-media-player macos-touchbar posix posix-shm rubberband rubberband-3 swift uchardet vector videotoolbox-gl videotoolbox-pl vk-khr-display vulkan zimg zimg-st428 zlib
+[   0.006][v][cplayer] Command line options: '--log-file=assets/data/mpv.txt' 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+[   0.006][v][cplayer] mpv 0.39.0 Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+[   0.006][v][cplayer]  built on Sep 28 2024 21:48:54
+[   0.006][v][cplayer] libplacebo version: v7.349.0
+[   0.006][v][cplayer] FFmpeg version: 6.1.2
+[   0.006][v][cplayer] FFmpeg library versions:
+[   0.006][v][cplayer]    libavcodec      60.31.102
+[   0.006][v][cplayer]    libavdevice     60.3.100
+[   0.006][v][cplayer]    libavfilter     9.12.100
+[   0.006][v][cplayer]    libavformat     60.16.100
+[   0.006][v][cplayer]    libavutil       58.29.100
+[   0.006][v][cplayer]    libswresample   4.12.100
+[   0.006][v][cplayer]    libswscale      7.5.100
+[   0.006][v][cplayer] Configuration: -Dbuildtype=release -Dstrip=true -Dmanpage-build=enabled -Dhtml-build=enabled -Dprefix=/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0 -Dsysconfdir=/usr/local/etc
+[   0.006][v][cplayer] List of enabled features: avfoundation bsd-fstatfs build-date cocoa coreaudio cplugins darwin ffmpeg gl gl-cocoa glob glob-posix gpl iconv javascript jpeg lcms2 libarchive libass libavdevice libdl libplacebo lua5.1 mac-thread-name macos-10-15-4-features macos-11-3-features macos-11-features macos-12-features macos-cocoa-cb macos-media-player macos-touchbar posix posix-shm rubberband rubberband-3 swift uchardet vector videotoolbox-gl videotoolbox-pl vk-khr-display vulkan zimg zimg-st428 zlib
+[   0.006][d][global] home path: '' -> '/Users/vasinsky/.config/mpv'
+[   0.006][d][global] user path: '~~home/' -> '/Users/vasinsky/.config/mpv'
+[   0.006][d][global] user path: '~~old_home/' -> '/Users/vasinsky/.mpv'
+[   0.006][d][global] config path: 'encoding-profiles.conf' -/-> '/Users/vasinsky/.config/mpv/encoding-profiles.conf'
+[   0.006][d][global] config path: 'encoding-profiles.conf' -/-> '/Users/vasinsky/.mpv/encoding-profiles.conf'
+[   0.006][d][global] config path: 'encoding-profiles.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/encoding-profiles.conf'
+[   0.006][d][global] config path: 'mpv.conf' -/-> '/Users/vasinsky/.config/mpv/mpv.conf'
+[   0.006][d][global] config path: 'config' -/-> '/Users/vasinsky/.config/mpv/config'
+[   0.006][d][global] config path: 'mpv.conf' -/-> '/Users/vasinsky/.mpv/mpv.conf'
+[   0.006][d][global] config path: 'config' -/-> '/Users/vasinsky/.mpv/config'
+[   0.006][d][global] config path: 'mpv.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/mpv.conf'
+[   0.006][d][global] config path: 'config' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/config'
+[   0.006][v][cplayer] Setting option 'log-file' = 'assets/data/mpv.txt' (flags = 8)
+[   0.009][d][global] config path: 'input.conf' -/-> '/Users/vasinsky/.config/mpv/input.conf'
+[   0.009][d][global] config path: 'input.conf' -/-> '/Users/vasinsky/.mpv/input.conf'
+[   0.013][d][global] config path: 'input.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/input.conf'
+[   0.013][d][global] user path: 'assets/data/mpv.txt' -> 'assets/data/mpv.txt'
+[   0.013][d][osc] Loading lua script @osc.lua...
+[   0.013][d][ytdl_hook] Loading lua script @ytdl_hook.lua...
+[   0.013][d][stats] Loading lua script @stats.lua...
+[   0.014][d][ytdl_hook] loading mp.defaults
+[   0.014][d][console] Loading lua script @console.lua...
+[   0.014][d][auto_profiles] Loading lua script @auto_profiles.lua...
+[   0.014][d][select] Loading lua script @select.lua...
+[   0.014][d][stats] loading mp.defaults
+[   0.034][d][osc] loading mp.defaults
+[   0.034][d][console] loading mp.defaults
+[   0.034][d][auto_profiles] loading mp.defaults
+[   0.034][d][stats] loading @stats.lua
+[   0.034][d][console] loading @console.lua
+[   0.034][d][ytdl_hook] loading @ytdl_hook.lua
+[   0.034][d][ytdl_hook] reading options for ytdl_hook
+[   0.034][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/Users/vasinsky/.config/mpv/script-opts/ytdl_hook.conf'
+[   0.034][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/Users/vasinsky/.mpv/script-opts/ytdl_hook.conf'
+[   0.034][d][global] config path: 'script-opts/ytdl_hook.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/script-opts/ytdl_hook.conf'
+[   0.034][d][ytdl_hook] script-opts/ytdl_hook.conf not found.
+[   0.034][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/Users/vasinsky/.config/mpv/lua-settings/ytdl_hook.conf'
+[   0.034][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/Users/vasinsky/.mpv/lua-settings/ytdl_hook.conf'
+[   0.034][d][global] config path: 'lua-settings/ytdl_hook.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/lua-settings/ytdl_hook.conf'
+[   0.034][d][ytdl_hook] lua-settings/ytdl_hook.conf not found.
+[   0.034][d][auto_profiles] loading @auto_profiles.lua
+[   0.034][d][stats] reading options for stats
+[   0.034][d][global] config path: 'script-opts/stats.conf' -/-> '/Users/vasinsky/.config/mpv/script-opts/stats.conf'
+[   0.034][d][global] config path: 'script-opts/stats.conf' -/-> '/Users/vasinsky/.mpv/script-opts/stats.conf'
+[   0.034][d][global] config path: 'script-opts/stats.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/script-opts/stats.conf'
+[   0.034][d][stats] script-opts/stats.conf not found.
+[   0.034][d][global] config path: 'lua-settings/stats.conf' -/-> '/Users/vasinsky/.config/mpv/lua-settings/stats.conf'
+[   0.034][d][global] config path: 'lua-settings/stats.conf' -/-> '/Users/vasinsky/.mpv/lua-settings/stats.conf'
+[   0.034][d][global] config path: 'lua-settings/stats.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/lua-settings/stats.conf'
+[   0.034][d][stats] lua-settings/stats.conf not found.
+[   0.034][d][select] loading mp.defaults
+[   0.034][d][osc] loading @osc.lua
+[   0.035][d][select] loading @select.lua
+[   0.040][v][mac/app] AppHub functionality initialised
+[   0.040][d][global] config path: 'scripts' -/-> '/Users/vasinsky/.config/mpv/scripts'
+[   0.040][d][global] config path: 'scripts' -/-> '/Users/vasinsky/.mpv/scripts'
+[   0.040][d][global] config path: 'scripts' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/scripts'
+[   0.040][v][cplayer] Waiting for scripts...
+[   0.040][d][cplayer] Run command: define-section, flags=64, args=[name="input_select", contents="", flags="default"]
+[   0.040][d][cplayer] Run command: define-section, flags=64, args=[name="showhide", contents="mouse_move script-binding osc/__keybinding1\nmouse_leave script-binding osc/__keybinding2\n", flags="force"]
+[   0.040][d][cplayer] Run command: define-section, flags=64, args=[name="showhide_wc", contents="mouse_move script-binding osc/__keybinding3\nmouse_leave script-binding osc/__keybinding4\n", flags="force"]
+[   0.040][d][cplayer] Run command: enable-section, flags=64, args=[name="showhide", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.040][d][cplayer] Run command: enable-section, flags=64, args=[name="showhide_wc", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.040][d][cplayer] Run command: define-section, flags=64, args=[name="input", contents="mbtn_left script-binding osc/__keybinding5\nshift+mbtn_left script-binding osc/__keybinding6\nmbtn_right script-binding osc/__keybinding7\nmbtn_mid script-binding osc/__keybinding8\nwheel_up script-binding osc/__keybinding9\nwheel_down script-binding osc/__keybinding10\nmbtn_left_dbl ignore\nshift+mbtn_left_dbl ignore\nmbtn_right_dbl ignore\n", flags="force"]
+[   0.040][d][cplayer] Run command: enable-section, flags=64, args=[name="input", flags=""]
+[   0.040][d][console] reading options for console
+[   0.040][d][global] config path: 'script-opts/console.conf' -/-> '/Users/vasinsky/.config/mpv/script-opts/console.conf'
+[   0.040][d][global] config path: 'script-opts/console.conf' -/-> '/Users/vasinsky/.mpv/script-opts/console.conf'
+[   0.040][d][global] config path: 'script-opts/console.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/script-opts/console.conf'
+[   0.040][d][console] script-opts/console.conf not found.
+[   0.040][d][global] config path: 'lua-settings/console.conf' -/-> '/Users/vasinsky/.config/mpv/lua-settings/console.conf'
+[   0.040][d][global] config path: 'lua-settings/console.conf' -/-> '/Users/vasinsky/.mpv/lua-settings/console.conf'
+[   0.040][d][global] config path: 'lua-settings/console.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/lua-settings/console.conf'
+[   0.040][d][console] lua-settings/console.conf not found.
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_select", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="input_forced_select", contents="", flags="force"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_forced_select", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="input_stats", contents="", flags="default"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_stats", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="input_forced_stats", contents="", flags="force"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_forced_stats", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="window-controls", contents="mbtn_left script-binding osc/__keybinding11\n", flags="force"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="window-controls", flags=""]
+[   0.041][d][osc] reading options for osc
+[   0.041][d][global] config path: 'script-opts/osc.conf' -/-> '/Users/vasinsky/.config/mpv/script-opts/osc.conf'
+[   0.041][d][global] config path: 'script-opts/osc.conf' -/-> '/Users/vasinsky/.mpv/script-opts/osc.conf'
+[   0.041][d][global] config path: 'script-opts/osc.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/script-opts/osc.conf'
+[   0.041][d][osc] script-opts/osc.conf not found.
+[   0.041][d][global] config path: 'lua-settings/osc.conf' -/-> '/Users/vasinsky/.config/mpv/lua-settings/osc.conf'
+[   0.041][d][global] config path: 'lua-settings/osc.conf' -/-> '/Users/vasinsky/.mpv/lua-settings/osc.conf'
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="input_console", contents="", flags="default"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_console", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][cplayer] Run command: define-section, flags=64, args=[name="input_forced_console", contents="", flags="force"]
+[   0.041][d][cplayer] Run command: enable-section, flags=64, args=[name="input_forced_console", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.041][d][global] config path: 'lua-settings/osc.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/lua-settings/osc.conf'
+[   0.041][d][osc] lua-settings/osc.conf not found.
+[   0.041][v][cplayer] Set property: user-data/osc/visibility="auto" -> 1
+[   0.041][d][cplayer] Run command: disable-section, flags=64, args=[name="input"]
+[   0.041][d][cplayer] Run command: disable-section, flags=64, args=[name="window-controls"]
+[   0.041][v][cplayer] Set property: user-data/osc/margins={"b":0,"l":0,"t":0,"r":0} -> 1
+[   0.042][v][cplayer] Done loading scripts.
+[   0.042][d][global] state path: 'watch_later' -> '/Users/vasinsky/.config/mpv/watch_later'
+[   0.042][v][cplayer] Running hook: auto_profiles/on_before_start_file
+[   0.042][d][global] state path: 'watch_later' -> '/Users/vasinsky/.config/mpv/watch_later'
+[   0.042][v][cplayer] Running hook: ytdl_hook/on_load
+[   0.042][v][cplayer] Set property: user-data/osc/margins={"b":0,"l":0,"t":0,"r":0} -> 1
+[   0.042][v][cplayer] Running hook: ytdl_hook/on_load
+[   0.042][d][osc] osc_init
+[   0.042][v][ytdl_hook] playlist hook
+[   0.042][v][cplayer] Running hook: auto_profiles/on_load
+[   0.043][v][stream_callback] Opening http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+[   0.043][v][ffmpeg] Opening http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+[   0.043][v][cplayer] Set property: user-data/osc/margins={"b":0,"l":0,"t":0,"r":0} -> 1
+[   0.043][d][global] config path: 'fonts' -/-> '/Users/vasinsky/.config/mpv/fonts'
+[   0.043][d][global] config path: 'fonts' -/-> '/Users/vasinsky/.mpv/fonts'
+[   0.043][d][global] config path: 'fonts' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/fonts'
+[   0.043][d][osd/libass] ASS library version: 0x1703000 (runtime 0x1703000)
+[   0.043][v][osd/libass] libass API version: 0x1703000
+[   0.043][v][osd/libass] libass source: tarball: 0.17.3
+[   0.045][v][osd/libass] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.0.1 (COMPLEX)
+[   0.045][d][global] config path: 'subfont.ttf' -/-> '/Users/vasinsky/.config/mpv/subfont.ttf'
+[   0.045][d][global] config path: 'subfont.ttf' -/-> '/Users/vasinsky/.mpv/subfont.ttf'
+[   0.045][d][global] config path: 'subfont.ttf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/subfont.ttf'
+[   0.045][d][global] config path: 'fonts.conf' -/-> '/Users/vasinsky/.config/mpv/fonts.conf'
+[   0.045][d][global] config path: 'fonts.conf' -/-> '/Users/vasinsky/.mpv/fonts.conf'
+[   0.045][d][global] config path: 'fonts.conf' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/fonts.conf'
+[   0.045][v][osd/libass] Setting up fonts...
+[   0.046][v][osd/libass] Using font provider coretext
+[   0.046][v][osd/libass] Done.
+[   0.047][d][osc] osc_init
+[   0.047][v][cplayer] Set property: user-data/osc/margins={"b":0,"l":0,"t":0,"r":0} -> 1
+[   0.047][d][cplayer] Run command: define-section, flags=64, args=[name="input_osc", contents="", flags="default"]
+[   0.047][d][cplayer] Run command: enable-section, flags=64, args=[name="input_osc", flags="allow-hide-cursor+allow-vo-dragging"]
+[   0.047][d][cplayer] Run command: define-section, flags=64, args=[name="input_forced_osc", contents="", flags="force"]
+[   0.047][d][cplayer] Run command: enable-section, flags=64, args=[name="input_forced_osc", flags="allow-hide-cursor+allow-vo-dragging"]
+[   1.471][d][ffmpeg] tcp: Starting connection attempt to 169.62.84.83 port 80
+[   1.476][d][ffmpeg] tcp: Successfully connected to 169.62.84.83 port 80
+[   2.956][w][ffmpeg] http: HTTP error 403 Forbidden
+[   2.956][e][stream] Failed to open http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8.
+[   2.956][v][cplayer] Opening failed or was aborted: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+[   2.956][v][cplayer] Running hook: ytdl_hook/on_load_fail
+[   2.956][d][global] config path: 'yt-dlp' -/-> '/Users/vasinsky/.config/mpv/yt-dlp'
+[   2.956][d][global] config path: 'yt-dlp' -/-> '/Users/vasinsky/.mpv/yt-dlp'
+[   2.956][d][global] config path: 'yt-dlp' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/yt-dlp'
+[   2.956][v][ytdl_hook] No youtube-dl found with path yt-dlp in config directories
+[   2.956][d][cplayer] Run command: subprocess, flags=64, args=[args="yt-dlp,--no-warnings,-J,--flat-playlist,--sub-format,ass/srt/best,--format,bestvideo+bestaudio/best,--all-subs,--no-playlist,--,http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8", playback_only="yes", capture_size="67108864", capture_stdout="yes", capture_stderr="yes", detach="no", env="", stdin_data="", passthrough_stdin="no"]
+[   2.957][v][ytdl_hook] Starting subprocess: [yt-dlp, --no-warnings, -J, --flat-playlist, --sub-format, ass/srt/best, --format, bestvideo+bestaudio/best, --all-subs, --no-playlist, --, http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8]
+[   2.968][e][ytdl_hook] Subprocess failed: init
+[   2.968][v][ytdl_hook] youtube-dl with path yt-dlp not found in PATH or not enough permissions
+[   2.968][d][global] config path: 'yt-dlp_x86' -/-> '/Users/vasinsky/.config/mpv/yt-dlp_x86'
+[   2.968][d][global] config path: 'yt-dlp_x86' -/-> '/Users/vasinsky/.mpv/yt-dlp_x86'
+[   2.969][d][global] config path: 'yt-dlp_x86' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/yt-dlp_x86'
+[   2.969][v][ytdl_hook] No youtube-dl found with path yt-dlp_x86 in config directories
+[   2.969][d][cplayer] Run command: subprocess, flags=64, args=[args="yt-dlp_x86,--no-warnings,-J,--flat-playlist,--sub-format,ass/srt/best,--format,bestvideo+bestaudio/best,--all-subs,--no-playlist,--,http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8", playback_only="yes", capture_size="67108864", capture_stdout="yes", capture_stderr="yes", detach="no", env="", stdin_data="", passthrough_stdin="no"]
+[   2.969][v][ytdl_hook] Starting subprocess: [yt-dlp_x86, --no-warnings, -J, --flat-playlist, --sub-format, ass/srt/best, --format, bestvideo+bestaudio/best, --all-subs, --no-playlist, --, http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8]
+[   2.973][e][ytdl_hook] Subprocess failed: init
+[   2.973][v][ytdl_hook] youtube-dl with path yt-dlp_x86 not found in PATH or not enough permissions
+[   2.973][d][global] config path: 'youtube-dl' -/-> '/Users/vasinsky/.config/mpv/youtube-dl'
+[   2.973][d][global] config path: 'youtube-dl' -/-> '/Users/vasinsky/.mpv/youtube-dl'
+[   2.973][d][global] config path: 'youtube-dl' -/-> '/Users/djinn/palestineandisraeldeserveeachother/build-0.39.0/etc/mpv/youtube-dl'
+[   2.973][v][ytdl_hook] No youtube-dl found with path youtube-dl in config directories
+[   2.973][d][cplayer] Run command: subprocess, flags=64, args=[args="youtube-dl,--no-warnings,-J,--flat-playlist,--sub-format,ass/srt/best,--format,bestvideo+bestaudio/best,--all-subs,--no-playlist,--,http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8", playback_only="yes", capture_size="67108864", capture_stdout="yes", capture_stderr="yes", detach="no", env="", stdin_data="", passthrough_stdin="no"]
+[   2.973][v][ytdl_hook] Starting subprocess: [youtube-dl, --no-warnings, -J, --flat-playlist, --sub-format, ass/srt/best, --format, bestvideo+bestaudio/best, --all-subs, --no-playlist, --, http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8]
+[   2.978][e][ytdl_hook] Subprocess failed: init
+[   2.978][v][ytdl_hook] youtube-dl with path youtube-dl not found in PATH or not enough permissions
+[   2.978][v][cplayer] Set property: user-data/mpv/ytdl/path="" -> 1
+[   2.978][v][cplayer] Set property: user-data/mpv/ytdl/json-subprocess-result={"error_string":"init","stderr":"","status":-3,"stdout":"","killed_by_us":false} -> 1
+[   2.978][v][ytdl_hook] status: -3
+[   2.978][v][ytdl_hook] reason: init
+[   2.978][v][ytdl_hook] stdout: 
+[   2.978][v][ytdl_hook] stderr: 
+[   2.978][e][ytdl_hook] 
+[   2.978][e][ytdl_hook] youtube-dl failed: not found or not enough permissions
+[   2.979][v][cplayer] finished playback, loading failed (reason 4)
+[   2.979][v][cplayer] Running hook: ytdl_hook/on_after_end_file
+[   2.979][d][cplayer] Run command: del, flags=64, args=[name="user-data/mpv/ytdl/json-subprocess-result"]
+[   2.979][d][osc] osc_init
+[   2.979][i][cplayer] Exiting... (Errors when loading file)
+[   2.980][d][mac] Exiting...
+[   2.980][d][ytdl_hook] Exiting...
+[   2.980][d][console] Exiting...
+[   2.980][d][stats] Exiting...
+[   2.980][d][select] Exiting...
+[   2.980][d][auto_profiles] Exiting...
+[   2.980][v][cplayer] Set property: user-data/osc/margins={"b":0,"l":0,"t":0,"r":0} -> 1
+[   2.980][d][cplayer] Run command: del, flags=64, args=[name="user-data/osc"]
+[   2.981][d][osc] Exiting...
+[   2.982][v][mac/app] Initialising Input
+[   2.983][v][mac/app] Stoping RemoteCommandCenter

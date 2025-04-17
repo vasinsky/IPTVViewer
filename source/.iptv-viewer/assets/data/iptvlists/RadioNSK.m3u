@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио России
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Серебряный дождь - Россия
+https://silverrain.hostingradio.ru/silver128.mp3.m3u
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Дорожное радио 102.0 FM
+https://online2.gkvr.ru:8001/dorozhnoe_nsb_64.aac.m3u
+
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Европа Плюс 103.2 FM
+https://online2.gkvr.ru:8001/europa_nsb_64.aac.m3u
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Дача - Россия
+http://microit.n340.ru:9000/VgMv0WV17ZVx1uuo_12_dacha_128_reg_311
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Energy 99.1 FM
+https://pub0202.101.ru:8443/stream/reg/mp3/128/region_energy_32
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Relax FM 107.7 FM
+https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_relax_73
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Like FM 89.1 FM
+https://pub0201.101.ru:8443/stream/reg/mp3/128/region_like_62
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Sputnik
+https://icecast-rian.cdnvideo.ru/voicerus
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио 7 на семи холмах 92.8 FM
+https://online2.gkvr.ru:8001/radio7_nsb_64.aac.m3u
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Ретро FM 97.0 FM
+https://online2.gkvr.ru:8000/retro_nsb_64.aac
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Ретро FM 97.0 FM
+https://online2.gkvr.ru:8000/retro_nsb_64.aac
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Новое Радио 100.0 FM
+https://online2.gkvr.ru:8001/novoe_nsb_64.aac.m3u
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Вести FM - Москва 97.6 МГц
+https://icecast-vgtrk.cdnvideo.ru/vestifm
+
+#EXTINF:-1 group-title="НОВОСИБИРСК",Радио Орфей - Россия
+http://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3.m3u

@@ -1,0 +1,813 @@
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: up
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 7 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 8 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 9 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 10 (Page: 1)
+Key pressed: return
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 7 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 8 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 9 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 10 (Page: 1)
+Key pressed: return
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 7 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 8 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 9 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 10 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 10
+Selected num string: 10
+Selected name: HBO
+Selected source: URL without http/https protocol mode:  (Offline)
+Start check URL: URL without http/https protocol
+Check: curl --head --silent --max-time 2 'URL without http/https protocol'
+Success URL: URL without http/https protocol
+playStreamMode is on
+channel: HBO
+command: mpv --log-file=assets/data/mpv.txt  URL without http/https protocol &
+playStreamMode is on. MPV started
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Success URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+playStreamMode is on
+channel: TVeo Miami
+command: mpv --log-file=assets/data/mpv.txt  http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 &
+playStreamMode is on. MPV started
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: up
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: up
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Result: 
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Failed open URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 code: 403
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: up
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+=======>403
+Failed open URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 code: 403
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Failed open URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 code: unknown
+Key pressed: escape
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 6 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: up
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV-big-list.m3u
+Selected source: IPTV-big-list.m3u mode:  (Offline)
+Loading offline IPTV list from: IPTV-big-list.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/IPTV-big-list.m3u
+Loaded 987 channels from file.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 6
+Selected num string: 6
+Selected name: Azteca 13
+Selected source: http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8 mode:  (Offline)
+Start check URL: http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+Check: curl --head --silent --max-time 2 'http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8'
+Failed open URL: http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8 code: 400
+Key pressed: x
+prePlayMode: true
+playStreamMode: false
+Returning to Channels List page: 6 index: 6
+Key pressed: up
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 5
+Selected num string: 5
+Selected name: TVeo Miami
+Selected source: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 mode:  (Offline)
+Start check URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
+Check: curl --head --silent --max-time 2 'http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8'
+Failed open URL: http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8 code: unknown
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: return
+Selected num string: 4
+Selected name: IPTV RUS
+Selected source: IPTV RUS::https://smolnp.github.io/IPTVru//IPTVru.m3u mode:  (Online)
+Loading offline IPTV list from: IPTV RUS::https://smolnp.github.io/IPTVru//IPTVru.m3u
+Mode is online: true
+Loaded 365 channels from URL.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 2
+Selected num string: 2
+Selected name: Первый канал Европа (WSVGA)
+Selected source: https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8 mode:  (Online)
+Start check URL: https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+Check: curl --head --silent --max-time 2 'https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8'
+Failed open URL: https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8 code: unknown
+Key pressed: x
+prePlayMode: true
+playStreamMode: false
+Returning to Channels List page: 2 index: 2
+Key pressed: down
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 3
+Selected num string: 3
+Selected name: 360° (HD)
+Selected source: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8 mode:  (Online)
+Start check URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+Check: curl --head --silent --max-time 2 'https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8'
+Failed open URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8 code: unknown
+Key pressed: x
+prePlayMode: true
+playStreamMode: false
+Returning to Channels List page: 3 index: 3
+Key pressed: space
+Key pressed: space
+Key pressed: down
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 7 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 8 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 9 (Page: 1)
+Key pressed: z
+Save/unsave bookmark
+Key pressed: down
+Active Index (Channels List): 10 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 11 (Page: 1)
+Key pressed: down
+Active Index (Channels List): 12 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 12
+Selected num string: 12
+Selected name: Красная линия (EDTV)
+Selected source: https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8 mode:  (Online)
+Start check URL: https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+Check: curl --head --silent --max-time 2 'https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8'
+Failed open URL: https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8 code: unknown
+Key pressed: z
+Save/unsave bookmark
+Key pressed: x
+prePlayMode: true
+playStreamMode: false
+Returning to Channels List page: 12 index: 12
+Key pressed: up
+Active Index (Channels List): 11 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 10 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 9 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 8 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 7 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 6 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 5 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 4 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 3 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: up
+Active Index (Channels List): 1 (Page: 1)
+Key pressed: x
+prePlayMode: false
+playStreamMode: false
+Returning to Names List from Channels List page: 1 index: 4
+Channels list page and index reset to 1.
+Key pressed: up
+Active Index (Names List): 3 (Page: 1)
+Key pressed: up
+Active Index (Names List): 2 (Page: 1)
+Key pressed: up
+Active Index (Names List): 1 (Page: 1)
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: return
+Selected num string: 3
+Selected name: IPTV BOT
+Selected source: IPTV BOT::https://iptv-org.github.io/iptv/index.m3u mode:  (Online)
+Loading offline IPTV list from: IPTV BOT::https://iptv-org.github.io/iptv/index.m3u
+Mode is online: true
+Loaded 11183 channels from URL.
+Key pressed: down
+Active Index (Channels List): 2 (Page: 1)
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 2
+Selected num string: 2
+Selected name: 1+2
+Selected source: http://89.254.128.5:22280/1_2/mono.m3u8 mode:  (Online)
+Start check URL: http://89.254.128.5:22280/1_2/mono.m3u8
+Check: curl --head --silent --max-time 2 'http://89.254.128.5:22280/1_2/mono.m3u8'
+Failed open URL: http://89.254.128.5:22280/1_2/mono.m3u8 code: unknown
+Key pressed: z
+Save/unsave bookmark
+Key pressed: z
+Save/unsave bookmark
+Key pressed: x
+prePlayMode: true
+playStreamMode: false
+Returning to Channels List page: 2 index: 2
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.
+Key pressed: x
+prePlayMode: false
+playStreamMode: false
+Key pressed: x
+prePlayMode: false
+playStreamMode: false
+Key pressed: x
+prePlayMode: false
+playStreamMode: false
+Key pressed: z
+Key pressed: z
+Key pressed: x
+prePlayMode: false
+playStreamMode: false
+Key pressed: z
+Key pressed: z
+Key pressed: z
+Key pressed: space
+Calculated 1 pages for names.
+Loaded 7 names from assets/data/iptvlists folder.
+Switched to Offline Mode.
+Key pressed: down
+Active Index (Names List): 2 (Page: 1)
+Key pressed: down
+Active Index (Names List): 3 (Page: 1)
+Key pressed: down
+Active Index (Names List): 4 (Page: 1)
+Key pressed: down
+Active Index (Names List): 5 (Page: 1)
+Key pressed: return
+Selected num string: 5
+Selected name: RadioNSK.m3u
+Selected source: RadioNSK.m3u mode:  (Offline)
+Loading offline IPTV list from: RadioNSK.m3u
+Mode is online: false
+Attempting to read file: assets/data/iptvlists/RadioNSK.m3u
+Loaded 15 channels from file.
+Key pressed: return
+currentPageChannels: 1 pageSize: 14 activeIndexChannels: 1
+Selected num string: 1
+Selected name: Радио России
+Selected source: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8 mode:  (Offline)
+Start check URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8
+Check: curl --head --silent --max-time 2 'https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8'
+Failed open URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/radio_russia/index.m3u8 code: unknown
+Calculated 1 pages for names.
+Loaded 4 names from assets/data/iptvlists.txt
+Calculated 1 pages for names.

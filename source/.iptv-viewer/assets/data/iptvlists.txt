@@ -1,0 +1,4 @@
+All TV BY LANGUAGE::https://iptv-org.github.io/iptv/index.language.m3u
+All TV BY COUNRTY::https://iptv-org.github.io/iptv/index.country.m3u
+IPTV BOT::https://iptv-org.github.io/iptv/index.m3u
+IPTV RUS::https://smolnp.github.io/IPTVru//IPTVru.m3u

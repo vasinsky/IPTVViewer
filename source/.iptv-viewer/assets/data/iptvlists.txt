@@ -1,4 +1,4 @@
-All TV BY LANGUAGE::https://iptv-org.github.io/iptv/index.language.m3u
+All TV BY SPORTS::http://qcsxucgx.mexamo.xyz/get.php?username=CLNZCGED&password=7AJ9HY4W&type=m3u_plus&output=mpegts
 All TV BY COUNRTY::https://iptv-org.github.io/iptv/index.country.m3u
 IPTV BOT::https://iptv-org.github.io/iptv/index.m3u
 IPTV RUS::https://smolnp.github.io/IPTVru//IPTVru.m3u
